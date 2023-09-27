@@ -1,2 +1,3 @@
 # Pemrograman2
-gasan pempro 2 sem 3
+2210817210032
+Fransiskus Assisi Indra Wijaya
