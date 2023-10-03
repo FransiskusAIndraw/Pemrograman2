@@ -1,43 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6f25a097-ca86-42fa-b1fe-1d38ca3c67bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../PRAKTIKUM0/PRAKTIKUM1_FRANSISKUS ASSISI INDRA WIJAYA_2210817210032.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRAKTIKUM0/PRAKTIKUM1_FRANSISKUS ASSISI INDRA WIJAYA_2210817210032.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRAKTIKUM0/candy3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRAKTIKUM0/src/candy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRAKTIKUM1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PRAK101_2210817210032_FRANSISKUSASSISIINDRAWIJAYA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRAKTIKUM2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRAKTIKUM2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kode.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRAKTIKUM1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/PRAKTIKUM1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PRAK001_2210817210032_FransiskusAssisiIndraWIjaya.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/src/PRAK001_2210817210032_FransiskusAssisiIndraWIjaya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PRAK002_2210817210032_FransiskusAssisiIndraWijaya.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/src/PRAK002_2210817210032_FransiskusAssisiIndraWijaya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PRAK003_2210817210032_FransiskusAssisiIndraWijaya.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/src/PRAK003_2210817210032_FransiskusAssisiIndraWijaya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PRAK004_221081710032_FransiskusAssisiIndraWIjaya.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/src/PRAK004_221081710032_FransiskusAssisiIndraWIjaya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PRAK005_2210817210032_FransiskusAssisiIndraWijaya.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PRAKTIKUM0/src/PRAK005_2210817210032_FransiskusAssisiIndraWijaya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAKTIKUM1/PRAK101_2210817210032_FRANSISKUSASSISIINDRAWIJAYA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAKTIKUM1/PRAK102_2210817210032_FRANSISKUSASSISIINDRAWIJAYA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAKTIKUM1/PRAK103_2210817210032_FRANSISKUSASSISIINDRAWIJAYA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAKTIKUM1/PRAK104_2210817210032_FRANSISKUSASSISIINDRAWIJAYA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAKTIKUM1/PRAK105_2210817210032_FRANSISKUSASSISIINDRAWIJAYA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/PRAKTIKUM1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/PRAKTIKUM1_FRANSISKUS ASSISI INDRA WIJAYA_2210817210032.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/PRAKTIKUM1_FRANSISKUS ASSISI INDRA WIJAYA_2210817210032.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/candy3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/src/PRAK001_2210817210032_FransiskusAssisiIndraWIjaya.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/src/PRAK002_2210817210032_FransiskusAssisiIndraWijaya.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/src/PRAK003_2210817210032_FransiskusAssisiIndraWijaya.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/src/PRAK004_221081710032_FransiskusAssisiIndraWIjaya.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/src/PRAK005_2210817210032_FransiskusAssisiIndraWijaya.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM0/src/candy3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAKTIKUM1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kode.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -54,6 +64,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/projects/PEMPROGRAMAN2/PRAKTIKUM1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/projects/PEMPROGRAMAN2/PRAKTIKUM1/src/Main.java&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -68,6 +84,12 @@
       <updated>1695802788702</updated>
       <workItem from="1695802789957" duration="24000" />
       <workItem from="1696139138509" duration="64000" />
+      <workItem from="1696140890596" duration="1220000" />
+      <workItem from="1696214291422" duration="1586000" />
+      <workItem from="1696227180515" duration="3433000" />
+      <workItem from="1696292134341" duration="4926000" />
+      <workItem from="1696334886642" duration="7936000" />
+      <workItem from="1696343924873" duration="74000" />
     </task>
     <servers />
   </component>
