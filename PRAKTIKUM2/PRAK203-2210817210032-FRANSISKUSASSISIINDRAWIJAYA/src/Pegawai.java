@@ -15,6 +15,5 @@ public class Pegawai {
     //public void setJabatan() {
     public void setJabatan(String j){
          this.jabatan = j;
-
     }
 }

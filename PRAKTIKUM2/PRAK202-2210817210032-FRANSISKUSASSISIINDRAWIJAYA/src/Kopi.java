@@ -1,11 +1,8 @@
-import org.w3c.dom.ls.LSOutput;
-
 public class Kopi {
 String namaKopi;
 String ukuran;
 int harga;
 String pembeli;
-
 void setPembeli(String pembeli){
 this.pembeli = pembeli;
 }
